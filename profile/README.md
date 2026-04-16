@@ -5,11 +5,11 @@ Bem-vindo ao repositório central de gerenciamento de dados e automação. Este 
 ## Escopo do Projeto
 O sistema integra a coleta de dados industriais com análise estatística avançada para garantir a estabilidade e eficiência de:
 * **Infraestrutura:** Datacenters, transformadores e sistemas de refrigeração (Chillers).
-* **Monitoramento:** Gestão de mais de 100 pontos de sensores (IDs M_0 a M_119).
+* **Monitoramento:** Gestão de mais de 100 pontos de sensores.
 * **Gestão:** Automação de relatórios de economia contratual e indicadores de performance.
 
 ## Stack Tecnológica
-* **Supervisão:** [ScadaBR](http://www.scadabr.org.br/) / ScadaLTS para interface homem-máquina e telemetria.
+* **Supervisão:** [ScadaBR](http://www.scadabr.com.br) / [ScadaLTS](https://scada-lts.com.br) para interface homem-máquina e telemetria.
 * **Banco de Dados:** MySQL 8.0 / MariaDB para armazenamento de séries temporais.
 * **Análise de Dados:** Linguagem **R** (utilizando `dplyr`, `lubridate` e `ggplot2`) para perfis de carga e detecção de anomalias.
 * **Automação de Relatórios:** VBA para integração automática com Excel e Outlook.
