@@ -12,12 +12,12 @@ O sistema integra a coleta de dados industriais com análise estatística avanç
 * **Supervisão:** [ScadaBR](http://www.scadabr.com.br) / [ScadaLTS](https://scada-lts.com) para interface homem-máquina e telemetria.
 * **Banco de Dados:** MySQL 8.0 / MariaDB para armazenamento de séries temporais.
 * **Análise de Dados:** Linguagem **R** (utilizando `dplyr`, `lubridate` e `ggplot2`) para perfis de carga e detecção de anomalias.
-* **Automação de Relatórios:** VBA para integração automática com Excel e Outlook.
+* **Automação de Relatórios:** Gráficos interativos, usando app Shiny.
 
 ## Estrutura de Repositórios
 * **/analise-r**: Scripts para processamento de curvas de carga e gráficos térmicos.
-* **/database-sql**: Queries de configuração, criação de tabelas e manutenção do histórico.
-* **/automacao-vba**: Ferramentas de exportação de relatórios em PDF e envio de e-mails.
+* **/database-sql**: Criação de tabelas e manutenção do histórico.
+* **/automacao**: Ferramentas de exportação de relatórios em PDF.
 
 ---
 *Este é um sistema ciberfísico em constante evolução para suporte à tomada de decisão energética.*
