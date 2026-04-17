@@ -6,7 +6,7 @@ O projeto integra sistemas supervisórios, banco de dados e ferramentas analíti
 
 Seu objetivo é transformar dados operacionais em informações úteis, apoiando decisões técnicas, identificando tendências, antecipando falhas e promovendo melhoria contínua da operação.
 
-**[Visão Geral](https://github.com/ScadaBR-CTI/Documenta-o.md)**: Neste link é possivél encontrar uma documentação completa com todos os medidores abordados e o diagrama de pontos.
+**[Visão Geral](https://github.com/ScadaBR-CTI/Documenta-o.md)**: Neste link é possivél encontrar uma documentação completa com todos os medidores abordados e o diagrama de blocos.
 
 ## Escopo do Projeto
 O sistema atua em diferentes frentes da operação e foi estruturado para atender demandas técnicas e gerenciais relacionadas à infraestrutura do CTI Renato Archer:
