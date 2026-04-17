@@ -22,7 +22,7 @@ O sistema atua em diferentes frentes da operação e foi estruturado para atende
 
 ## Estrutura de Repositórios
 * **[Banco de Dados](https://github.com/ScadaBR-CTI/BANCO_DE_DADOS.md)**: Armazenamento, técnicas de recuperação e tratamento de dados.
-
+* **[Análise de Dados](https://github.com/ScadaBR-CTI/analise-dados-r)**: Os dados foram submetidos a uma análise gráfica, com integrações de Linguagem R.
 
 ---
 *Este é um sistema ciberfísico em constante evolução para suporte à tomada de decisão energética.*
