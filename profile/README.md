@@ -1,8 +1,6 @@
 # ScadaBR-CTI | Monitoramento e Eficiência Energética
 
-Bem-vindo ao repositório central de dados, automação e inteligência operacional do projeto ScadaBR-CTI.
-
-Este espaço reúne soluções para monitoramento de infraestrutura crítica, análise operacional e eficiência energética no CTI Renato Archer.
+Bem-vindo ao repositório de dados, automação e inteligência operacional do projeto ScadaBR-CTI. Este espaço reúne soluções para monitoramento de infraestrutura crítica, análise operacional e eficiência energética no CTI Renato Archer.
 
 O projeto integra sistemas supervisórios, banco de dados e ferramentas analíticas para acompanhar, em tempo real, o funcionamento de ativos essenciais.
 
