@@ -15,9 +15,8 @@ O sistema integra a coleta de dados industriais com análise estatística avanç
 * **Automação de Relatórios:** Gráficos interativos, usando app Shiny.
 
 ## Estrutura de Repositórios
-* **/analise-r**: Scripts para processamento de curvas de carga e gráficos térmicos.
-* **/database-sql**: Criação de tabelas e manutenção do histórico.
-* **/automacao**: Ferramentas de exportação de relatórios em PDF.
+* **[Banco de Dados**: Armazenamento, técnicas de recuperação e tratamento de dados.
+
 
 ---
 *Este é um sistema ciberfísico em constante evolução para suporte à tomada de decisão energética.*
