@@ -15,7 +15,7 @@ O sistema integra a coleta de dados industriais com análise estatística avanç
 * **Automação de Relatórios:** Gráficos interativos, usando app Shiny.
 
 ## Estrutura de Repositórios
-* **[Banco de Dados**: Armazenamento, técnicas de recuperação e tratamento de dados.
+* **[Banco de Dados](https://github.com/ScadaBR-CTI/BANCO_DE_DADOS.md)**: Armazenamento, técnicas de recuperação e tratamento de dados.
 
 
 ---
