@@ -9,10 +9,9 @@ O objetivo é demonstrar como tanto dados em tempo real quanto bases históricas
 **[Visão Geral](https://github.com/ScadaBR-CTI/Documenta-o.md)**: Neste link é possivél encontrar uma documentação completa com todos os medidores abordados e o diagrama de blocos.
 
 ## Escopo do Projeto
-O sistema atua em diferentes frentes da operação e foi estruturado para atender demandas técnicas e gerenciais relacionadas à infraestrutura do CTI Renato Archer:
-* **Infraestrutura:** Datacenters, transformadores e sistemas de refrigeração (Chillers).
-* **Monitoramento:** Gestão de mais de 100 pontos de sensores.
-* **Gestão:** Automação de relatórios de economia contratual e indicadores de performance.
+O projeto contempla a organização e análise de dados operacionais provenientes do ScadaBR, utilizando ferramentas em R para tratamento, modelagem e visualização das informações.
+
+O escopo inclui o desenvolvimento de indicadores, análises temporais e dashboards voltados ao acompanhamento operacional e energético da infraestrutura monitorada, além da consolidação de uma base estruturada para futuras expansões e integrações analíticas.
 
 ## Tecnologias Utilizadas
 * **Supervisão:** [ScadaBR](http://www.scadabr.com.br) / [ScadaLTS](https://scada-lts.com) para interface homem-máquina e telemetria.
