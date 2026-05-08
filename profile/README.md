@@ -13,10 +13,10 @@ O projeto contempla a organização e análise de dados operacionais proveniente
 
 O escopo inclui o desenvolvimento de indicadores, análises temporais e dashboards voltados ao acompanhamento operacional e energético da infraestrutura monitorada, além da consolidação de uma base estruturada para futuras expansões e integrações analíticas.
 
-## Tecnologias Utilizadas
+## Tecnologias Empregadas
 * **Supervisão:** [ScadaBR](http://www.scadabr.com.br) / [ScadaLTS](https://scada-lts.com) para interface homem-máquina e telemetria.
 * **Banco de Dados:** MySQL 8.0 para armazenamento de séries temporais.
-* **Análise de Dados:** Linguagem **R** (Principais bibliotecas: `dplyr`, `lubridate`, `ggplot2` e `plotly`) para perfis de carga e detecção de anomalias.
+* **Análise de Dados:** RStudio análises em linguagem **R** (Principais bibliotecas: `dplyr`, `lubridate`, `ggplot2` e `plotly`) para perfis de carga e série temporal.
 * **Automação de Relatórios:** Gráficos interativos, usando app Shiny.
 
 ## Estrutura de Repositórios
