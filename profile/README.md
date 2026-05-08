@@ -1,13 +1,8 @@
-<div align="justify">
 # ScadaBR-CTI | Monitoramento e Eficiência Energética
 
-Este repositório documenta o desenvolvimento do projeto ScadaBR-CTI, que integra automação e análise de dados operacionais no CTI Renato Archer.
-
-O sistema trabalha com dados provenientes do ScadaBR e pode abrigar tanto informações em tempo real quanto bases históricas, permitindo diferentes formas de análise conforme a disponibilidade dos dados.
+Este repositório documenta o desenvolvimento do projeto ScadaBR-CTI, que integra automação e análise de dados operacionais no CTI Renato Archer. Esse sistema trabalha com dados provenientes do ScadaBR e pode abrigar tanto informações em tempo real quanto bases históricas, permitindo diferentes formas de análise conforme a disponibilidade dos dados.
 
 No caso atual, o foco está na utilização de dados históricos, que são estruturados, tratados e analisados em R para geração de indicadores e visualizações. Isso possibilita estudar o comportamento de variáveis operacionais ao longo do tempo, como consumo energético, desempenho de equipamentos e padrões de funcionamento.
-
-O projeto é voltado ao monitoramento de infraestrutura crítica e à análise de eficiência energética, permitindo identificar tendências, variações e possíveis anomalias mesmo em contextos sem atualização contínua de dados.
 
 O objetivo é demonstrar como tanto dados em tempo real quanto bases históricas podem ser aproveitados como ferramenta de análise e apoio à tomada de decisão técnica, contribuindo para a melhoria contínua da operação no CTI. O banco de dados possui um repositório próprio, dedicado à sua documentação.
 
@@ -31,4 +26,3 @@ O sistema atua em diferentes frentes da operação e foi estruturado para atende
 
 ---
 *Este é um sistema ciberfísico em constante evolução para suporte à tomada de decisão energética.*
-</div>
