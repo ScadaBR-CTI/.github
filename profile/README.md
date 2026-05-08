@@ -1,5 +1,4 @@
 <div align="justify">
-  
 # ScadaBR-CTI | Monitoramento e Eficiência Energética
 
 Este repositório documenta o desenvolvimento do projeto ScadaBR-CTI, que integra automação e análise de dados operacionais no CTI Renato Archer.
